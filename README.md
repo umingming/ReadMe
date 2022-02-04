@@ -6,7 +6,7 @@
 <br />
 
 # 📌 Table Of Contents
-* [📖 Introduction](#-introduction)
+* [📖 Intro](#-intro)
 * [🙋 My Role](#-my-role)
 * [🔎 Detail](#-detail)
 * [💡 Consideration](#-consideration)
@@ -18,7 +18,7 @@
 
 
 
-# 📖 Introduction
+# 📖 Intro
 ### 1. 프로젝트 개요
 * 프로젝트의 **개요**를 작성합니다.
 * 주요 **내용**을 간결하게 설명합니다.
